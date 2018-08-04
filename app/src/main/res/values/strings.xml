@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Kotlin Beginner</string>
+
+    //array nama presiden
+    <array name="nama_presiden">
+    <item>Soekarno</item>
+    <item>Soeharto</item>
+    <item>Bj Habibie</item>
+    <item>Gusdur</item>
+    <item>Megawati</item>
+    <item>Susilo Bambang Y.</item>
+    <item>Joko Widodo</item>
+    </array>
+    //array gambar (url gambar presiden)
+    <array name="gambar_presiden">
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/Presiden_Sukarno.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/59/President_Suharto%2C_1993.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f1/Bacharuddin_Jusuf_Habibie_official_portrait.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/35/President_Abdurrahman_Wahid_-_Indonesia.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/88/President_Megawati_Sukarnoputri_-_Indonesia.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/58/Presiden_Susilo_Bambang_Yudhoyono.png</item>
+        <item>http://2.bp.blogspot.com/-HDn4P8-v1lk/VffasLZoB6I/AAAAAAAADqY/RM6R4uF00Jw/s1600/Biografi%2BJoko%2BWidodo%2B-%2BPresiden%2BKetujuh%2BIndonesia.jpg</item>
+    </array>
+
+    <array name="periode">
+        <item>Ke 1</item>
+        <item>Ke 2</item>
+        <item>Ke 3</item>
+        <item>Ke 4</item>
+        <item>Ke 5</item>
+        <item>Ke 6</item>
+        <item>Ke 7</item>
+    </array>
+    <array name="detail_presiden">
+        <item>Detail Presiden Soekarno . . . .. </item>
+        <item>Detail Presiden Soeharto . . . .. </item>
+        <item>Detail Presiden Bj Habibie . . . .. </item>
+        <item>Detail Presiden Gusdur . . . .. </item>
+        <item>Detail Presiden Megawati . . . .. </item>
+        <item>Detail Presiden SBY . . . .. </item>
+        <item>Detail Presiden Joko Widodo . . . .. </item>
+    </array>
+</resources>
